@@ -1,0 +1,9 @@
+h1 {color: white}
+h2 {color:red; font-family: Times New Roman}
+h3 {color: white} 
+p {color: green}
+body {background-color: black}
+a href {color: blue}
+t {color: #ff00ba; font-size: 375%}
+span {color: #3Dcf3d}
+span2 {color: #ffa31a}
